@@ -1,0 +1,5 @@
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXFLX.5.12.4/2022/06/MERRA2_400.tavg1_2d_flx_Nx.20220630.nc4
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXFLX.5.12.4/2022/06/MERRA2_400.tavg1_2d_flx_Nx.20220629.nc4
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXFLX.5.12.4/2022/06/MERRA2_400.tavg1_2d_flx_Nx.20220628.nc4
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXFLX.5.12.4/2022/06/MERRA2_400.tavg1_2d_flx_Nx.20220627.nc4
+https://data.gesdisc.earthdata.nasa.gov/data/MERRA2/M2T1NXFLX.5.12.4/2022/06/MERRA2_400.tavg1_2d_flx_Nx.20220626.nc4

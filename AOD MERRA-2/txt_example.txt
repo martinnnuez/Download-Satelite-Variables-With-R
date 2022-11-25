@@ -1,0 +1,4 @@
+https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I3NXGAS.5.12.4/2022/06/MERRA2_400.inst3_2d_gas_Nx.20220601.nc4
+https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I3NXGAS.5.12.4/2022/05/MERRA2_400.inst3_2d_gas_Nx.20220531.nc4
+https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I3NXGAS.5.12.4/2022/05/MERRA2_400.inst3_2d_gas_Nx.20220530.nc4
+https://goldsmr4.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I3NXGAS.5.12.4/2022/05/MERRA2_400.inst3_2d_gas_Nx.20220529.nc4
